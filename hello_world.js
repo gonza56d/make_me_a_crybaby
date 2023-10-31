@@ -1,2 +1,3 @@
-var message = "Hello, cat!";
+"use strict";
+const message = "Hello, cat!";
 console.log(message);
